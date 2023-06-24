@@ -4,6 +4,6 @@
              xmlns:local="clr-namespace:BrokStore"
              StartupUri="MainWindow.xaml">
     <Application.Resources>
-         
+        <!--Telegram : BrokDotNet-->
     </Application.Resources>
 </Application>
